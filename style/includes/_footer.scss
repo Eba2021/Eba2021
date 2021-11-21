@@ -1,0 +1,33 @@
+.footer {
+    width: 100%;
+    background-color: #f2f2f2;
+    padding-top: 40px !important;
+    
+    .footer_items {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    .section {
+        color: #5F717D;
+        
+        ul {
+            text-align: left;
+        
+            li {
+                list-style: none;
+            }
+        }
+    }
+
+    .social {
+        list-style: none;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        padding: 0;
+    }
+
+}
+
+
